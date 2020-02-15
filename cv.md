@@ -1,7 +1,7 @@
 Samoilava Tatsiana  
 
 Contacts:  
-phone: +375293-318-708  
+phone: +375-293-318-708  
 e-mail:samotv82@gmail.com
 
 Goals:  
