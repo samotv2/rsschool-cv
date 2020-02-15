@@ -17,3 +17,6 @@ Eduction:
 
 English:  
 English A2-B1 (Pre-Intermediate - Intermediate)
+ 
+ Links:  
+https://www.codewars.com/users/samotv2
